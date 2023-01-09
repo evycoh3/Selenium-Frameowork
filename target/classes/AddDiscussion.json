@@ -1,0 +1,13 @@
+[
+  {
+    "projectName": "Test Project 1",
+    "status": "Open",
+    "name": "evy",
+    "description": "evy Discussion",
+    "createdBy": "developer",
+    "assignedTo": [
+      "admin",
+      "manager"
+    ]
+  }
+]

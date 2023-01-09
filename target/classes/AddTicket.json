@@ -1,0 +1,15 @@
+[
+  {
+    "projectName": "Test Project 1",
+    "department": "Hosting Support",
+    "type": "Report a Bug",
+    "status": "Re-opened",
+    "subject": "evy ticket",
+    "description": "evy description",
+    "createdBy": "client",
+    "notifyTo": [
+      "admin",
+      "manager"
+    ]
+  }
+]
